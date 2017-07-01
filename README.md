@@ -1,9 +1,9 @@
 # Gameboy Zero
 
 This is my personal take on the gameboy zero project. Updates will come as I progress.
-I'm also using this to fulfil a college drafting project, so while the assemblies may be finished, they along with some parts are not final and still need to be refined.
+I'm also using this to fulfil a college drafting project, so while the assemblies may be finished, they along with some parts are not final and still need to be fixed.
 
-## Refferences
+## References
 http://www.sudomod.com/game-boy-zero-custom-parts-guide-part-1/
 https://imgur.com/a/8uO6E#Zyqf7J3
 https://github.com/Cristov9000/SuperGameGirl
