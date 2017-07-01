@@ -5,11 +5,15 @@ I'm also using this to fulfil a college drafting project, so while the assemblie
 
 ## References
 http://www.sudomod.com/game-boy-zero-custom-parts-guide-part-1/
+
 https://imgur.com/a/8uO6E#Zyqf7J3
+
 https://github.com/Cristov9000/SuperGameGirl
 
 https://grabcad.com/library/retro-nintendo-gameboy-1
+
 https://grabcad.com/library/raspberry-pi-zero-w-board-1
+
 https://grabcad.com/library/usb-2-0-port-1
 
 http://space.kitsch-bent.com/4button_rev2_drill_template.pdf
@@ -18,7 +22,9 @@ http://space.kitsch-bent.com/4button_rev2_drill_template.pdf
 # Bill of Materials
 
 **Kitsch-Bent:** **PURCHASED** JUNE 9, $23.75 + $5.00 Shipping + Tax = $30.91
+
 **TODO: DOCUMENT SECOND PURCHASE**
+
 **Adafruit:**
 
 ## Sound (Checked and Done)
